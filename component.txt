@@ -1,0 +1,16 @@
+pump
+valve
+switch
+light
+motor
+sensor
+temp
+intake
+outlet
+processor
+mixer
+exhaust
+drip
+feed
+driver
+vent
