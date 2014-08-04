@@ -15,7 +15,7 @@ You may use a custom file by supplying your own dictionary file and replacing th
 USAGE
 -------
 
-python default_changer.py
+python default_configuration_changer.py
 
 
 SUPPORT
